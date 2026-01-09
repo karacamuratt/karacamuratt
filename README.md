@@ -24,8 +24,8 @@ Backend software engineering with strong experience in building.
 ![BullMQ](https://img.shields.io/badge/BullMQ-000000?logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 
-![Microservices](https://img.shields.io/badge/Microservices-000000?logo=microservices&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?logo=microservices&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
