@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Murat
 
-### Senior Software Engineer (Node.js)
+### Senior Software Engineer
 
-Backend software engineering with strong experience in building.
+Software Engineer focused on understanding code, clean architecture, and backend system design.
 
 ## 💻 Tech Stack
 
