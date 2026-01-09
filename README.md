@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer
 
-A software engineer with 7+ years of professional experience, focused on understanding code, clean architecture, and backend system design.
+7+ years of professional experience, focused on understanding code, clean architecture and backend system design.
 
 ## 💻 Tech Stack
 
