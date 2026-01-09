@@ -33,3 +33,10 @@ Backend software engineering with strong experience in building.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karacamuratt&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karacamuratt&layout=compact&theme=transparent&hide_border=true)
