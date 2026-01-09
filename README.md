@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer
 
-Software Engineer focused on understanding code, clean architecture, and backend system design.
+A software engineer with 7+ years of professional experience, focused on understanding code, clean architecture, and backend system design.
 
 ## 💻 Tech Stack
 
