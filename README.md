@@ -1,10 +1,10 @@
-# 🌐 Welcome to my GitHub profile!
+# <img src="https://cdn.simpleicons.org/github/ffffff" width="28" /> Welcome to My GitHub Profile!
 
 ### Senior Software Engineer
 
 7+ years of professional experience, focused on understanding code, clean architecture and backend system design.
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -34,11 +34,11 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)
 
-## 🔗 Contact
+## Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:karacamuratt.93@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karacamuratt/)
 
-## 📊 Profile Views
+## Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=karacamuratt&label=Profile%20views&color=blue&style=for-the-badge%22" />
