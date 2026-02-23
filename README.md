@@ -1,4 +1,4 @@
-# <img src="https://cdn.simpleicons.org/github/ffffff" width="28" /> Welcome to My GitHub Profile!
+# <img src="https://cdn.simpleicons.org/github/ffffff" width="28" />  Welcome to My GitHub Profile!
 
 ### Senior Software Engineer
 
