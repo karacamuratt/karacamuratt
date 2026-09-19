@@ -43,14 +43,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=karacamuratt&label=Profile%20views&color=blue&style=for-the-badge%22" />
 
-## Portfolio / Featured App
+## Portfolio
 
 <table>
   <tr>
     <th width="25%">Mobile App</th>
     <th width="20%">Tech Stack</th>
     <th width="28%">AI Tools</th>
-    <th width="27%">Notes</th>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -69,8 +68,10 @@
         <img src="https://img.shields.io/badge/Download-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" />
       </a>
       <br /><br />
+      🌐 <mark><a href="https://www.yourgoldapp.com"><b>www.yourgoldapp.com</b></a></mark>
+      <br /><br />
     </td>
-    <td valign="top">
+    <td align="center">
       <br />
       <b>Mobile</b><br />
       - React Native<br />
@@ -85,24 +86,16 @@
       - Cloudflare<br />
       - Expo<br />
       - Docker<br />
-      - Grafana
+      - Grafana<br /><br />
     </td>
-    <td valign="top">
+    <td align="center" valign="top">
       <br />
       <img src="https://img.shields.io/badge/Claude_Opus_5-D97757?logo=claude&logoColor=white" alt="Claude Opus 5" /><br />
-      <sub>Max 5x Plan · <i>Development</i></sub><br /><br />
+      <sub>Max 5x Plan - <i>Development</i></sub><br /><br />
       <img src="https://img.shields.io/badge/ChatGPT-74AA9C?logo=openaigym&logoColor=white" alt="ChatGPT" /><br />
-      <sub>Go Plan · <i>Visual Asset Generation</i></sub><br /><br />
+      <sub>Go Plan - <i>Visual Asset Generation</i></sub><br /><br />
       <img src="https://img.shields.io/badge/Figma_AI-F24E1E?logo=figma&logoColor=white" alt="Figma AI" /><br />
       <sub><i>Overall App Design</i></sub>
-    </td>
-    <td valign="top">
-      <br />
-      <b>The released version (v1.1.1) is completely free with no ads, no subscriptions, no paywalls.</b>
-      <br /><br />
-      📱 Available now on the <a href="https://apps.apple.com/app/id6807464429"><b>App Store</b></a>
-      <br /><br />
-      🔜 Coming soon to <b>Google Play</b>
     </td>
   </tr>
 </table>
