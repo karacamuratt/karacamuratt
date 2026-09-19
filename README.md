@@ -47,9 +47,11 @@
 
 <table>
   <tr>
-    <th width="25%">Mobile App</th>
-    <th width="20%">Tech Stack</th>
-    <th width="28%">AI Tools</th>
+    <th width="28%">Mobile App</th>
+    <th width="18%">Tech Stack</th>
+    <th width="24%">AI Tools</th>
+    <th width="15%">App Store</th>
+    <th width="15%">Google Play</th>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -68,34 +70,51 @@
         <img src="https://img.shields.io/badge/Download-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" />
       </a>
       <br /><br />
-      🌐 <mark><a href="https://www.yourgoldapp.com"><b>www.yourgoldapp.com</b></a></mark>
+      🌐&nbsp;<mark><a href="https://www.yourgoldapp.com"><b>www.&#8203;yourgoldapp.com</b></a></mark>
       <br /><br />
     </td>
-    <td align="center">
+    <td align="center" valign="top">
       <br />
       <b>Mobile</b><br />
-      - React Native<br />
-      - TypeScript<br />
-      - SQLite<br /><br />
+      -&#8288;&nbsp;React&nbsp;Native<br />
+      -&#8288;&nbsp;TypeScript<br />
+      -&#8288;&nbsp;SQLite<br /><br />
       <b>Backend</b><br />
-      - NestJS<br />
-      - Prisma<br />
-      - PostgreSQL<br />
-      - Redis<br /><br />
+      -&#8288;&nbsp;NestJS<br />
+      -&#8288;&nbsp;Prisma<br />
+      -&#8288;&nbsp;PostgreSQL<br />
+      -&#8288;&nbsp;Redis<br /><br />
       <b>Infra</b><br />
-      - Cloudflare<br />
-      - Expo<br />
-      - Docker<br />
-      - Grafana<br /><br />
+      -&#8288;&nbsp;Cloudflare<br />
+      -&#8288;&nbsp;Expo<br />
+      -&#8288;&nbsp;Docker<br />
+      -&#8288;&nbsp;Grafana<br /><br />
     </td>
     <td align="center" valign="top">
       <br />
       <img src="https://img.shields.io/badge/Claude_Opus_5-D97757?logo=claude&logoColor=white" alt="Claude Opus 5" /><br />
-      <sub>Max 5x Plan - <i>Development</i></sub><br /><br />
+      <sub>Max 5x Plan&nbsp;- <i>Development</i></sub><br /><br />
       <img src="https://img.shields.io/badge/ChatGPT-74AA9C?logo=openaigym&logoColor=white" alt="ChatGPT" /><br />
-      <sub>Go Plan - <i>Visual Asset Generation</i></sub><br /><br />
+      <sub>Go Plan&nbsp;- <i>Visual Asset Generation</i></sub><br /><br />
       <img src="https://img.shields.io/badge/Figma_AI-F24E1E?logo=figma&logoColor=white" alt="Figma AI" /><br />
-      <sub><i>Overall App Design</i></sub>
+      <sub><i>Overall App Design</i></sub><br />
+      <img src="assets/spacer.png" width="100%" alt="" />
+    </td>
+    <td align="center" valign="top">
+      <br />
+      <a href="https://apps.apple.com/app/id6807464429">
+        <img src="assets/status-live.svg" width="44" alt="Live on the App Store" />
+      </a>
+      <br />
+      <b>Live</b>
+      <br />
+    </td>
+    <td align="center" valign="top">
+      <br />
+      <img src="assets/status-soon.svg" width="44" alt="Coming soon to Google Play" />
+      <br />
+      <b>Coming soon</b>
+      <br />
     </td>
   </tr>
 </table>
